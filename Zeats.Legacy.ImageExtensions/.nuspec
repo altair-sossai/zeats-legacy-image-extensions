@@ -4,7 +4,7 @@
   <metadata>
     <id>Zeats.Legacy.ImageExtensions</id>
     <version>1.0.0.0</version>
-    <description>Extensions to solve common problems when using Bitmap</description>
+    <description>Extensions to solve common problems when using Image</description>
     <authors>altairsossai@gmail.com</authors>
     <owners>altairsossai</owners>
     <projectUrl>https://github.com/altair-sossai/zeats-legacy-image-extensions</projectUrl>
